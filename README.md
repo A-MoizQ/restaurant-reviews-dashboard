@@ -4,7 +4,7 @@
 <hr>
 <p>The Restaurant Reviews Dashboard is a web application designed to analyze customer reviews of restaurants. It provides graphical representations, such as sentiment distribution and popularity trends, to help users understand key insights.</p>
 <p>It also allows users to compare their restaurants popularity based on different rating categories with any other restaurant they like.</p>
-<p><strong>Note: This application strictly works for restaurants listed in <a href = https://www.opentable.com/> Open Table</a></strong></p>
+<p><strong>Note: This application strictly works for restaurants listed in <a href = https://www.opentable.com/ target="_blank"> Open Table</a></strong></p>
 
 <h3>Features</h3>
 <hr>
